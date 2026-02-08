@@ -1,0 +1,5 @@
+1.Cleaned HR dataset using Power Query.
+2.Removed unwanted columns.
+3.Corrected data types.
+4.Created Age Group and Salary Band.
+5.Built attrition and employee visuals.
